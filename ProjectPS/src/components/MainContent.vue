@@ -70,7 +70,7 @@
         <ul class="space-y-8">
           <li>
             <div class="flex flex-col md:flex-row md:items-baseline md:justify-between mb-1">
-              <h4 class="text-lg font-bold text-gray-800">안하공업전문대학교 (컴퓨터정보공학과)</h4>
+              <h4 class="text-lg font-bold text-gray-800">인하공업전문대학교 (컴퓨터정보공학과)</h4>
               <span class="text-sm text-gray-500">2023.03 ~ 2026.02 (졸업예정)</span>
             </div>
             <p class="text-gray-600">학점: 4.1 / 4.5</p>
