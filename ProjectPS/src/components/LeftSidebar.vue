@@ -10,7 +10,7 @@
       <h1 class="text-3xl font-bold mb-4">김민우</h1>
       <p class="text-gray-400 leading-relaxed">
         안녕하세요.<br />
-        성장하는 개발자입니다.<br />
+        꾸준히 성장하는 개발자입니다.<br />
         이메일: kimminu0221@gmail.com<br />
         연락처: 010-7336-2271
       </p>
