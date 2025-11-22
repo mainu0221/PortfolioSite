@@ -63,7 +63,7 @@
       >
         <h2 class="text-3xl font-bold text-emerald-600">Resume</h2>
         <a
-          href="/resume.pdf"
+          href="/PortfolioSite/resume.pdf"
           download="자기소개서.pdf"
           class="mt-4 md:mt-0 flex items-center gap-2 px-5 py-2 bg-gray-800 text-white rounded-lg hover:bg-emerald-600 hover:-translate-y-1 transition shadow-md font-bold text-sm"
         >
