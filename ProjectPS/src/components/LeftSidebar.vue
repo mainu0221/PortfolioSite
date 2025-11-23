@@ -4,7 +4,7 @@
   >
     <div class="flex flex-col items-end">
       <div class="w-32 h-32 rounded-full overflow-hidden border-4 border-gray-600 mb-6">
-        <img src="https://placehold.co/200" alt="Profile" class="w-full h-full object-cover" />
+        <img src="/images/profile.jpg" alt="Profile" class="w-full h-full object-cover" />
       </div>
 
       <h1 class="text-3xl font-bold mb-4">김민우</h1>
