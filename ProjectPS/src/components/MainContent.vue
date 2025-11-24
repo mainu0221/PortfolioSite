@@ -62,27 +62,52 @@
         class="flex flex-col md:flex-row md:items-end justify-between mb-16 border-b-4 border-emerald-100 pb-2"
       >
         <h2 class="text-3xl font-bold text-emerald-600">Resume</h2>
-        <a
-          href="/PortfolioSite/resume.pdf"
-          download="자기소개서.pdf"
-          class="mt-4 md:mt-0 flex items-center gap-2 px-5 py-2 bg-gray-800 text-white rounded-lg hover:bg-emerald-600 hover:-translate-y-1 transition shadow-md font-bold text-sm"
-        >
-          <svg
-            xmlns="http://www.w3.org/2000/svg"
-            fill="none"
-            viewBox="0 0 24 24"
-            stroke-width="2"
-            stroke="currentColor"
-            class="w-5 h-5"
+
+        <div class="flex flex-col sm:flex-row gap-3 mt-6 md:mt-0">
+          <a
+            href="/PortfolioSite/cv.pdf"
+            target="_blank"
+            class="w-44 flex items-center justify-center gap-2 px-5 py-2 bg-white border-2 border-gray-800 text-gray-800 rounded-lg hover:bg-gray-100 hover:-translate-y-1 transition shadow-md font-bold text-sm"
           >
-            <path
-              stroke-linecap="round"
-              stroke-linejoin="round"
-              d="M3 16.5v2.25A2.25 2.25 0 005.25 21h13.5A2.25 2.25 0 0021 18.75V16.5M16.5 12L12 16.5m0 0L7.5 12m4.5 4.5V3"
-            />
-          </svg>
-          자기소개서(PDF) 다운로드
-        </a>
+            <svg
+              xmlns="http://www.w3.org/2000/svg"
+              fill="none"
+              viewBox="0 0 24 24"
+              stroke-width="2"
+              stroke="currentColor"
+              class="w-5 h-5"
+            >
+              <path
+                stroke-linecap="round"
+                stroke-linejoin="round"
+                d="M19.5 14.25v-2.625a3.375 3.375 0 00-3.375-3.375h-1.5A1.125 1.125 0 0113.5 7.125v-1.5a3.375 3.375 0 00-3.375-3.375H8.25m0 12.75h7.5m-7.5 3H12M10.5 2.25H5.625c-.621 0-1.125.504-1.125 1.125v17.25c0 .621.504 1.125 1.125 1.125h12.75c.621 0 1.125-.504 1.125-1.125V11.25a9 9 0 00-9-9z"
+              />
+            </svg>
+            이력서 보기
+          </a>
+
+          <a
+            href="/PortfolioSite/intro.pdf"
+            target="_blank"
+            class="w-44 flex items-center justify-center gap-2 px-5 py-2 bg-gray-800 text-white rounded-lg hover:bg-emerald-600 hover:-translate-y-1 transition shadow-md font-bold text-sm"
+          >
+            <svg
+              xmlns="http://www.w3.org/2000/svg"
+              fill="none"
+              viewBox="0 0 24 24"
+              stroke-width="2"
+              stroke="currentColor"
+              class="w-5 h-5"
+            >
+              <path
+                stroke-linecap="round"
+                stroke-linejoin="round"
+                d="M19.5 14.25v-2.625a3.375 3.375 0 00-3.375-3.375h-1.5A1.125 1.125 0 0113.5 7.125v-1.5a3.375 3.375 0 00-3.375-3.375H8.25m0 12.75h7.5m-7.5 3H12M10.5 2.25H5.625c-.621 0-1.125.504-1.125 1.125v17.25c0 .621.504 1.125 1.125 1.125h12.75c.621 0 1.125-.504 1.125-1.125V11.25a9 9 0 00-9-9z"
+              />
+            </svg>
+            자기소개서 보기
+          </a>
+        </div>
       </div>
 
       <div class="mb-16">
@@ -341,16 +366,6 @@
             class="w-16 h-16 mb-4 group-hover:scale-110 transition object-contain"
           />
           <div class="font-bold text-lg text-gray-700">Python</div>
-        </div>
-        <div
-          class="w-40 p-6 bg-white border border-gray-200 rounded-xl hover:border-emerald-500 transition cursor-default group shadow-sm hover:shadow-md flex flex-col items-center"
-        >
-          <img
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"
-            alt="C"
-            class="w-16 h-16 mb-4 group-hover:scale-110 transition object-contain"
-          />
-          <div class="font-bold text-lg text-gray-700">C</div>
         </div>
         <div
           class="w-40 p-6 bg-white border border-gray-200 rounded-xl hover:border-emerald-500 transition cursor-default group shadow-sm hover:shadow-md flex flex-col items-center"
