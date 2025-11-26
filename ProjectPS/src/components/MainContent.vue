@@ -358,52 +358,56 @@
 
       <div class="flex flex-wrap justify-center gap-6 text-center">
         <div
-          class="w-40 p-6 bg-white border border-gray-200 rounded-xl hover:border-emerald-500 transition cursor-default group shadow-sm hover:shadow-md flex flex-col items-center"
+          class="w-40 p-6 bg-white border border-gray-200 rounded-xl cursor-default group shadow-sm flex flex-col items-center"
         >
           <img
             src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
             alt="Python"
-            class="w-16 h-16 mb-4 group-hover:scale-110 transition object-contain"
+            class="w-16 h-16 mb-4 object-contain"
           />
           <div class="font-bold text-lg text-gray-700">Python</div>
         </div>
+
         <div
-          class="w-40 p-6 bg-white border border-gray-200 rounded-xl hover:border-emerald-500 transition cursor-default group shadow-sm hover:shadow-md flex flex-col items-center"
+          class="w-40 p-6 bg-white border border-gray-200 rounded-xl cursor-default group shadow-sm flex flex-col items-center"
         >
           <img
             src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"
             alt="C#"
-            class="w-16 h-16 mb-4 group-hover:scale-110 transition object-contain"
+            class="w-16 h-16 mb-4 object-contain"
           />
           <div class="font-bold text-lg text-gray-700">C#</div>
         </div>
+
         <div
-          class="w-40 p-6 bg-white border border-gray-200 rounded-xl hover:border-emerald-500 transition cursor-default group shadow-sm hover:shadow-md flex flex-col items-center"
+          class="w-40 p-6 bg-white border border-gray-200 rounded-xl cursor-default group shadow-sm flex flex-col items-center"
         >
           <img
             src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"
             alt="Java"
-            class="w-16 h-16 mb-4 group-hover:scale-110 transition object-contain"
+            class="w-16 h-16 mb-4 object-contain"
           />
           <div class="font-bold text-lg text-gray-700">Java</div>
         </div>
+
         <div
-          class="w-40 p-6 bg-white border border-gray-200 rounded-xl hover:border-emerald-500 transition cursor-default group shadow-sm hover:shadow-md flex flex-col items-center"
+          class="w-40 p-6 bg-white border border-gray-200 rounded-xl cursor-default group shadow-sm flex flex-col items-center"
         >
           <img
             src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
             alt="Git"
-            class="w-16 h-16 mb-4 group-hover:scale-110 transition object-contain"
+            class="w-16 h-16 mb-4 object-contain"
           />
           <div class="font-bold text-lg text-gray-700">Git/GitHub</div>
         </div>
+
         <div
-          class="w-40 p-6 bg-white border border-gray-200 rounded-xl hover:border-emerald-500 transition cursor-default group shadow-sm hover:shadow-md flex flex-col items-center"
+          class="w-40 p-6 bg-white border border-gray-200 rounded-xl cursor-default group shadow-sm flex flex-col items-center"
         >
           <img
             src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg"
             alt="Notion"
-            class="w-16 h-16 mb-4 group-hover:scale-110 transition object-contain"
+            class="w-16 h-16 mb-4 object-contain"
           />
           <div class="font-bold text-lg text-gray-700">Notion</div>
         </div>
