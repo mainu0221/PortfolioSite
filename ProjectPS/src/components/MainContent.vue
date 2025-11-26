@@ -65,7 +65,7 @@
 
         <div class="flex flex-col sm:flex-row gap-3 mt-6 md:mt-0">
           <a
-            href="/PortfolioSite/cv.pdf"
+            href="/이력서.pdf"
             target="_blank"
             class="w-44 flex items-center justify-center gap-2 px-5 py-2 bg-white border-2 border-gray-800 text-gray-800 rounded-lg hover:border-emerald-500 hover:text-emerald-500 hover:-translate-y-1 transition shadow-md font-bold text-sm"
           >
@@ -87,7 +87,7 @@
           </a>
 
           <a
-            href="/PortfolioSite/intro.pdf"
+            href="/자기소개서.pdf"
             target="_blank"
             class="w-44 flex items-center justify-center gap-2 px-5 py-2 bg-gray-800 text-white rounded-lg hover:bg-emerald-600 hover:-translate-y-1 transition shadow-md font-bold text-sm"
           >
